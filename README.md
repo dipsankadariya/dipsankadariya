@@ -8,3 +8,4 @@
 </p>📫 Feel free to contact me through  my socialLinks.</p>
 
 
+[Listen to my playlist on Spotify](https://open.spotify.com/playlist/6tX1PW1cdzhmjzGvZ6HAD8?si=c92adf9914bc4897)
