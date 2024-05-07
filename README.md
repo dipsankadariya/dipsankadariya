@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dipsan kadariya.</h1>
 <h3 align="center">I love learning new stuffs.</h3>
+<h3 align="center">I'm  a 2nd year computer Science Student.</h3>
 
 <p align="left"> <a href="https://twitter.com/dipson_kadariya" target="blank"><img src="https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge" alt="dipson_kadariya" /></a> </p>
 
-- 🔭 I’m currently working on my own  web app called [Tourism Information and Reservation](https://github.com/dipsankadariya/Guide_Everest)
+- 🔭 I’m currently working on my own  web application called [Tourism Information and Reservation](https://github.com/dipsankadariya/Guide_Everest)
 
-- 🌱 I’m currently doings **react and node js.**
+- 🌱 I’m currently doings **react and node js**
 
 - 👯 I’m looking to collaborate on **Stuffs related to web Applications**
 
@@ -15,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://github.com/dipsankadariya](https://github.com/dipsankadariya)
 
-- 💬 Ask me about **stuffs relaede to web applications.**
+- 💬 Ask me about **stuffs relaede to web applications**
 
 - 📫 How to reach me **dipsankadariya99@gmail.com**
 
