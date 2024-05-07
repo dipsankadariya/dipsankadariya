@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dipson_kadariya" target="blank"><img src="https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge" alt="dipson_kadariya" /></a> </p>
 
-- 🔭 I’m currently working on a web app called [Tourism Information and Reservation](https://github.com/dipsankadariya/Guide_Everest)
+- 🔭 I’m currently working on my own  web app called [Tourism Information and Reservation](https://github.com/dipsankadariya/Guide_Everest)
 
 - 🌱 I’m currently doings **react and node js.**
 
