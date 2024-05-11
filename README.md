@@ -10,7 +10,7 @@
 <h3 align="center">Passionate about learning and building cool stuff!</h3>
 
 <p align="left">
-- 🎓 I'm a 2nd year computer science student.
+  🎓 I'm a 2nd year computer science student.
 
 - 🔭 I’m currently working on building my own web application called <a href="https://github.com/dipsankadariya/Guide_Everest">Guide Everest</a>
 
