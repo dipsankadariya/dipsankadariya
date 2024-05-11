@@ -9,13 +9,9 @@
 <h1 align="center">👋 Hello, I'm Dipsan Kadariya</h1>
 <h3 align="center">Passionate about learning and building cool stuff!</h3>
 
-<p align="center"> 
-  <a href="https://twitter.com/dipson_kadariya" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge" alt="dipson_kadariya" />
-  </a> 
-</p>
-
 <p align="left">
+- 🎓 I'm a 2nd year computer science student.
+
 - 🔭 I’m currently working on building my own web application called <a href="https://github.com/dipsankadariya/Guide_Everest">Guide Everest</a>
 
 - 🌱 I’m currently learning **React and Node.js**
