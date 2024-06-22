@@ -45,6 +45,12 @@
     <!-- Add other language and tool icons here -->
   </p>
 
+  <h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipsankadariya&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
  
 
 </body>
