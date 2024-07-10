@@ -19,7 +19,7 @@
     <li>🤝 I’m looking for help with my project <a href="https://github.com/dipsankadariya/GuideEverest">GuideEverest</a></li>
     <li>👨‍💻 All of my projects are available at <a href="https://dipsanportfolio-dipsankadariyas-projects.vercel.app/">My Portfolio</a></li>
     <li>📝 I regularly write articles on <a href="https://dipsankadariya99.blogspot.com/">My Blog</a></li>
-    <li>⚡ Fun fact: I like doing nothing.</li>
+    <li>⚡ Fun fact: I like Music</li>
   </ul>
    <h3 align="left">Resume:</h3>
   <p align="left">
