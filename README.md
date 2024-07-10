@@ -8,7 +8,7 @@
 <body>
 
   <h1 align="center">Hi 👋, I'm Dipsan Kadariya</h1>
-  <h3 align="center">I like to learn new things.</h3>
+  <h3 align="center">    Inspired by big dreams. </h3>
 
   <p align="left"> <a href="https://twitter.com/dipson_kadariya" target="blank"><img src="https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge" alt="dipson_kadariya" /></a> </p>
     
