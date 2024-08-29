@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning React and NodeJs
 - 🤝 I'm looking for help with my project [GuideEverest](https://github.com/dipsankadariya/GuideEverest)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dipsanportfolio-dipsankadariyas-projects.vercel.app/)
-- 📝 I regularly write articles on [My Blog](https://dipsankadariya99.blogspot.com/)
+- 📝 I regularly write articles on [My Blog](https://dev.to/dipsankadariya)
 - ⚡ Fun fact: I like Music
 
 <h3 align="left">Resume:</h3>
