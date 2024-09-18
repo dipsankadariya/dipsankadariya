@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on my own tourism-based Web project called [GuideEverest](https://github.com/dipsankadariya/GuideEverest)
 - 🌱 I'm currently learning React and NodeJs
 - 🤝 I'm looking for help with my project [GuideEverest](https://github.com/dipsankadariya/GuideEverest)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dipsanportfolio-dipsankadariyas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dipsankadariya.vercel.app/)
 - 📝 I regularly write articles on [My Blog](https://dev.to/dipsankadariya)
 - ⚡ Fun fact: I like Music
 
