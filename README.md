@@ -7,17 +7,14 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on my own tourism-based Web project called [GuideEverest](https://github.com/dipsankadariya/GuideEverest)
+- 🔭 I'm currently working on my social networking project called [Nexus](https://github.com/dipsankadariya/Nexus)
 - 🌱 I'm currently learning React and NodeJs
-- 🤝 I'm looking for help with my project [GuideEverest](https://github.com/dipsankadariya/GuideEverest)
+- 🤝 I'm looking for help with my project [Nexus](https://github.com/dipsankadariya/Nexus)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dipsankadariya.vercel.app/)
 - 📝 I regularly write articles on [My Blog](https://dev.to/dipsankadariya)
 - ⚡ Fun fact: I like Music
 
-<h3 align="left">Resume:</h3>
-<p align="left">
-  My : <a href="https://resume-seven-lime.vercel.app/">Resume</a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,5 +59,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-
