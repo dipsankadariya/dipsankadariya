@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I'm currently working on my social networking project called [Nexus](https://github.com/dipsankadariya/Nexus)
-- 🌱 I'm currently learning React and NodeJs
+- 🌱 I'm currently learning Nextjs.
 - 🤝 I'm looking for help with my project [Nexus](https://github.com/dipsankadariya/Nexus)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dipsankadariya.vercel.app/)
 - 📝 I regularly write articles on [My Blog](https://dev.to/dipsankadariya)
