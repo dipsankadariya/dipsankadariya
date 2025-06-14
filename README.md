@@ -7,9 +7,8 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on my Art Gallery project called [BrushPixels](https://github.com/dipsankadariya/BrushPixels)
-- 🌱 I'm currently learning Nextjs.
-- 🤝 I'm looking for help with my project [Nexus](https://github.com/dipsankadariya/Nexus)
+- 🌱 I'm currently learning React Native.
+- 🤝 I'm looking for help with my project [SRS](https://github.com/dipsankadariya/SRS)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dipsankadariya.vercel.app/)
 - 📝 I regularly write articles on [My Blog](https://dev.to/dipsankadariya)
 - ⚡ Fun fact: I like Music
