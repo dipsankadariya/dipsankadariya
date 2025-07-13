@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🌱 I'm currently learning React Native.
+
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dipsankadariya.vercel.app/)
 - 📝 I sometimes write articles on [My Blog](https://dev.to/dipsankadariya)
 - ⚡ Fun fact: I love Music.
