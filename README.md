@@ -9,6 +9,7 @@
 
 
 - 👨‍💻 My projects are available at [My Portfolio](https://dipsankadariya.vercel.app/)
+- 📝 Check out my AI journey on [AI journey ](https://github.com/iamdipsan)
 - 📝 I sometimes write articles on [My Blog](https://dev.to/dipsankadariya)
 - ⚡ Fun fact: I love Music.
 
