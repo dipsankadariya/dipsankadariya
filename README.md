@@ -10,7 +10,6 @@
 
 - 👨‍💻 My projects are available at [My Portfolio](https://dipsankadariya.com.np/)
 - 📝 Check out my AI journey on [AI journey ](https://github.com/iamdipsan)
-- 📝 I sometimes write blogs on [My Blog](https://dipsankadariya.com.np/blog)
 - ⚡ Fun fact: I love Music.
 
 
