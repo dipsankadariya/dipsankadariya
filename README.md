@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dipsan Kadariya</h1>
 <h3 align="center">Inspired by big dreams.</h3>
-
 <p align="left">
   <a href="https://twitter.com/dipson_kadariya" target="blank">
     <img src="https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge" alt="dipson_kadariya" />
   </a>
 </p>
 
-
 - 👨‍💻 My projects are available at [My Portfolio](https://dipsankadariya.com.np/)
 - 📝 Check out my AI journey on [AI journey ](https://github.com/iamdipsan)
 - ⚡ Fun fact: I love Music.
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,3 +53,29 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipsanakadariya&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsanakadariya&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipsanakadariya&theme=radical&hide_border=true)
+
+</div>
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipsanakadariya&theme=react-dark&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=dipsanakadariya&color=blueviolet&style=flat-square)
+
+</div>
