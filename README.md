@@ -4,8 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge)](https://twitter.com/dipson_kadariya)
 
 - 👨‍💻 My projects are available at [My Portfolio](https://dipsankadariya.com.np/)  
-- 📝 Check out my AI journey on [iamdipsan](https://github.com/iamdipsan)  
-- 📝 Currently I'm focusing on learning C#, .NET Core MVC, and SQL  
+- 📝 Currently I'm focusing on learning C#, .NET Core MVC, and SQL.
 - ⚡ Fun fact: I love Music.  
 
 ---
